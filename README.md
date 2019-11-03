@@ -36,7 +36,7 @@ TG联系 [@Latte](https://t.me/Latte_Coffe) 购买或看demo，同时接定制�
 主题基于[Anankke/SSPanel-Uim](https://github.com/Anankke)开发，保持长期维护更新。
 
 [
-![Latte：一款优雅和现代时尚的SSPANEL主题](https://baiyue.one/wp-content/uploads/2019/10/2019100708410296.png)](https://baiyue.one/wp-content/uploads/2019/10/2019100708410296.png)
+![Latte：一款优雅和现代时尚的SSPANEL主题](https://baiyue.one/wp-content/uploads/2019/10/2019110316022928.png)](https://baiyue.one/wp-content/uploads/2019/10/2019110316022928.png)
 
 [![Latte：一款优雅和现代时尚的SSPANEL主题](https://baiyue.one/wp-content/uploads/2019/10/20191007084105100.png)](https://baiyue.one/wp-content/uploads/2019/10/20191007084105100.png)
 
