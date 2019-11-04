@@ -1,6 +1,6 @@
 # Latte：一款清爽、可自定义的SSPANEL主题
 
-## 新版特点
+## 🎨新版特点
 
 - 去除旧版艳丽色彩，增加无数个可自定义参数的配置文件。
 - 新增易支付，可对接任意一家易支付网站或自行搭建一套易支付对接个人的支付宝当面付或个人的小微商户，实现相对安全的收款方式。
@@ -15,13 +15,17 @@
 - 付费者将享受后续免费升级和维护服务。
 - 自带一键部署脚本，只需安装好宝塔+php7.3即可自动完成部署，提供远程指导服务。
 
-## 价格
+## :pencil:待办事项
+
+[已完成功能+计划中的功能](https://github.com/Baiyuetribe/Latte_sspanel_theme/blob/master/List_To_Do.md)
+
+## :tangerine:价格
 
 限时优惠：300元（399元），带域名授权，支持域名变更。已适配一键部署，2分钟可搭建一个新站，5分钟可完成旧站迁移。
 
 购买地址：[佰阅小店](https://mall.baiyue.one)
 
-## 特别优惠
+## :gift:特别优惠
 
 Latte主题 + [rico V2Ray付费版后端](https://github.com/rico93/pay-v2ray-sspanel-v3-mod_Uim-plugin/tree/master)，原价899，现在只需799
 
@@ -29,7 +33,7 @@ Latte主题 + [SSR后端一键对接脚本](https://mall.baiyue.one/product/4.ht
 
 备注：v2ray对接是绑定域名的；ssr后端对接一键脚本不绑定域名，不限制节点数量。
 
-## 截图
+## :camera:截图
 
 TG联系 [@Latte](https://t.me/Latte_Coffe) 购买或看demo，同时接定制功能
 
