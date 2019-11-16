@@ -8,6 +8,9 @@
 - [ ] Quantumult，Shadowrocket，Surfboard，Surge，Clash一键跳转APP导入功能
 - [ ] 商店排序功能，实现自定义排序
 - [ ] 完善教程页内容；或添加视频教程
+- [ ] 修复签到功能
+- [ ] TG绑定功能
+- [ ] ss2clash、ssr2clash、v2ray2clash订阅功能
 
 ### 已完成功能
 
