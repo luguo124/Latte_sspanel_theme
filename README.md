@@ -29,6 +29,8 @@
 
 Latte主题 + [rico V2Ray付费版后端](https://github.com/rico93/pay-v2ray-sspanel-v3-mod_Uim-plugin/tree/master)，原价899，现在只需799
 
+Latte主题 + 【V2Ray永久使用一键脚本后端】无需按年付费，永久使用，售价500
+
 Latte主题 + [SSR后端一键对接脚本](https://mall.baiyue.one/product/4.html)，原价550，现在只需450
 
 备注：v2ray对接是绑定域名的；ssr后端对接一键脚本不绑定域名，不限制节点数量。
